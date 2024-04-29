@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog in all africa
+title: Welcome to my blog in all Africa
 ---
 
